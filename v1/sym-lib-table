@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "libmikro")(type "Legacy")(uri "${KIPRJMOD}/../libmikro/libmikro.lib")(options "")(descr ""))
+  (lib (name "seaque")(type "KiCad")(uri "${KIPRJMOD}/seaque.kicad_sym")(options "")(descr ""))
+)
