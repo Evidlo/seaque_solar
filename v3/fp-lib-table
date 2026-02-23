@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "libmikro")(type "KiCad")(uri "${KIPRJMOD}/../../eduplsb/brd/common/libmikro/libmikro.pretty")(options "")(descr ""))
-)

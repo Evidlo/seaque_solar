@@ -1,0 +1,2 @@
+id	type	is_array	shape	readable	writeable	executable	read_cb	write_cb	exec_func	initial_value	include	comments
+telemetry_en	bool	FALSE		TRUE	TRUE	FALSE				FALSE		Enable telemetry

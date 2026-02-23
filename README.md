@@ -2,6 +2,14 @@
 
 Design files for [SEAQUE](https://research.physics.illinois.edu/QI/Photonics/SEAQUE/) solar experiment.
 
+# Files
+
+- `board/` - KiCAD design files for IV sweeper
+- `firmware/` - STM32 software for downlinking through SEAQUE
+- `analysis/` - post-downlink analysis software
+
+# Pics
+
 ![Integrated experiment](pics/integration.jpeg)
 
 ![On-board the ISS](pics/image001.jpeg)
