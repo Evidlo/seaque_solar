@@ -2,9 +2,12 @@
 
 Design files for [SEAQUE](https://research.physics.illinois.edu/QI/Photonics/SEAQUE/) solar experiment.
 
-![Integrated experiment](integration pic.jpeg)
-![On-board the ISS](image001.jpeg)
+![Integrated experiment](pics/integration.jpeg)
 
-![](IMG_20231015_213839.jpg)
-![](IMG_20230512_140352.jpg)
-![](IMG_20231015_214857.jpg)
+![On-board the ISS](pics/image001.jpeg)
+
+![](pics/IMG_20231015_213839.jpg)
+
+![](pics/IMG_20230512_140352.jpg)
+
+![](pics/IMG_20231015_214857.jpg)
